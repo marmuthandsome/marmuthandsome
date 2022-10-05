@@ -31,11 +31,26 @@ I'm a Security Engineer 💻, Editing ⌨️, and Writing 📝
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-Pyhton-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=00599C )
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
+![](https://img.shields.io/badge/Code-Pyhton-informational?style=flat&logo=Python&color=14354C)
+![](https://img.shields.io/badge/Code-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&color=CC2927)
+
+</br>
+
+![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=kali-linux&color=557C94)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=0078D6)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&color=A81D33)
+
+</br>
+
+![](https://img.shields.io/badge/Tools-Adobe%20Premiere%20Pro-informational?style=flat&logo=Adobe%20Premiere%20Pro&color=31A8FF)
+![](https://img.shields.io/badge/Tools-Adobe%20Photoshop-informational?style=flat&logo=Adobe%20Photoshop&color=31A8FF)
+![](https://img.shields.io/badge/Tools-Adobe%20Lightroom-informational?style=flat&logo=Adobe%20Lightroom&color=31A8FF)
+![](https://img.shields.io/badge/Tools-Adobe%20after%20affects-informational?style=flat&logo=Adobe%20after%20effects&color=393665)
+
+</br>
+
+## 💡 TryHackMe Profile
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Niesha.png" alt="TryHackMe">
