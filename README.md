@@ -48,7 +48,6 @@ I'm a Security Engineer 💻, Editing ⌨️, and Writing 📝
 ![](https://img.shields.io/badge/Tools-Adobe%20Photoshop-informational?style=flat&logo=Adobe%20Photoshop&color=31A8FF)
 ![](https://img.shields.io/badge/Tools-Adobe%20Lightroom-informational?style=flat&logo=Adobe%20Lightroom&color=31A8FF)
 ![](https://img.shields.io/badge/Tools-Adobe%20after%20affects-informational?style=flat&logo=Adobe%20after%20effects&color=393665)
-
 </br>
 
 ## 💡 TryHackMe Profile
