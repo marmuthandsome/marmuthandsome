@@ -52,4 +52,4 @@ I'm a Security Engineer 💻, Editing ⌨️, and Writing 📝
 
 ## 💡 TryHackMe Profile
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Niesha.png" alt="TryHackMe">
+
