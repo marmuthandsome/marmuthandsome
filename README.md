@@ -32,7 +32,9 @@ I'm a Security Engineer 💻, Editing ⌨️, and Writing 📝
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=00599C )
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=239120 )
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Pyhton-informational?style=flat&logo=Python&color=14354C)
 ![](https://img.shields.io/badge/Code-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&color=CC2927)
 
