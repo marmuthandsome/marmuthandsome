@@ -26,8 +26,7 @@ I'm a Security Engineer 💻, Editing ⌨️, and Writing 📝
 - Cyber Security
 - Defensive Security
 - Offensive Security
-- PHP
-- Javascript
+- Python
 
 ## 💼 Technical Skills
 
