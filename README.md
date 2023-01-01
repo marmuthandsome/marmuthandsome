@@ -26,7 +26,7 @@ I'm a Security Engineer 💻, Editing ⌨️, and Writing 📝
 - Cyber Security
 - Defensive Security
 - Offensive Security
-- Python
+- Bug Bounty
 
 ## 💼 Technical Skills
 
