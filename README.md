@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://nieshakenzie.github.io/">Ferry</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Security Engineer 💻, Editing ⌨️, and Writing 📝
+I'm a Pentration Tester 💻, Editing ⌨️, and Writing 📝
 </h2>
 
 ### 🤝 Connect with me:
