@@ -35,7 +35,7 @@ I'm a Pentration Tester 💻, Editing ⌨️, and Writing 📝
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&color=ffff00)
-![](https://img.shields.io/badge/Code-Pyhton-informational?style=flat&logo=Python&color=14354C)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=14354C)
 ![](https://img.shields.io/badge/Code-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&color=CC2927)
 
 </br>
