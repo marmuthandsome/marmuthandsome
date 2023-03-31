@@ -27,6 +27,7 @@ I'm a Penetration Tester 💻, Editing ⌨️, and Writing 📝
 - Defensive Security
 - Offensive Security
 - Bug Bounty
+- API Pentesting
 
 ## 💼 Technical Skills
 
