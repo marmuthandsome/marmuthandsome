@@ -7,8 +7,7 @@ Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 </h1>
 
 <h2 align="center">
-I'm a Pentester 💻, Editing ⌨️, and Writing 📝
-</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=15F7ED&center=true&vCenter=true&width=435&lines=%E2%9C%85+Job+%2F+Skills+;Web+Pentester+%F0%9F%92%BB;IOS+Pentester+%F0%9F%93%B1;Red+Teaming+%F0%9F%9F%A5;Bug+Bounty+%F0%9F%92%B0;CTF+Player+%E2%9B%B3" alt="Typing SVG" /></a></h2>
 
 ### 🤝 Connect with me:
 
