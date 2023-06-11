@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px"> <a href="https://nieshakenzie.github.io/">Ferry</a> 
+Hi, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px"> <a href="https://nieshakenzie.github.io/">Ferry</a> 
 </h1>
 
 <h2 align="center">
