@@ -2,12 +2,12 @@
 <img width="1000" height="230" src="https://user-images.githubusercontent.com/67650329/214784830-4055cd12-f81a-4d58-ad6c-4b0eeb3c0385.png" alt="my banner">
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="https://nieshakenzie.github.io/">Ferry</a> 👋
-</h3>
+<h1 align="center">
+Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px"> <a href="https://nieshakenzie.github.io/">Ferry</a> 
+</h1>
 
 <h2 align="center">
-I'm a Penetration Tester 💻, Editing ⌨️, and Writing 📝
+I'm a Pentester 💻, Editing ⌨️, and Writing 📝
 </h2>
 
 ### 🤝 Connect with me:
@@ -18,15 +18,15 @@ I'm a Penetration Tester 💻, Editing ⌨️, and Writing 📝
 
 ## 🔭 I'm currently working on
 
-- Write Report Pentesting
-- Write Report Malware Analysis
+- Web Pentester
+- IOS Pentester
+- Red Teaming
+- Bug Bounty
 
 ## 🌱 I'm currently learning
 
-- Cyber Security
+- Cloud Security
 - Defensive Security
-- Offensive Security
-- Bug Bounty
 - API Pentesting
 
 ## 💼 Technical Skills
