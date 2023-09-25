@@ -2,8 +2,8 @@
 <img width="1000" height="230" src="https://user-images.githubusercontent.com/67650329/214784830-4055cd12-f81a-4d58-ad6c-4b0eeb3c0385.png" alt="my banner">
 </p>
 
-<h1 align="center">
-Hi, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px"> <a href="https://nieshakenzie.github.io/">Ferry</a> 
+<h1 align="center"> 
+  Hi, I'm <a href="https://marmuthandsome.xyz/">Ferry</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 </h1>
 
 <h2 align="center">
